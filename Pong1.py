@@ -15,8 +15,10 @@ paleta_a = turtle.Turtle()
 paleta_a.speed(0)
 paleta_a.shape("square")
 paleta_a.color("white")
+paleta_a.shapesize(stretch_wid=5, stretch_len=1)
 paleta_a.penup()
 paleta_a.goto(-350, 0)
+
 
 #Paleta B
 
